@@ -29,15 +29,25 @@ Copy the path because its used to add in environment variables in windows in my 
 ### step4 :
 To add the add python path to environment variable follow the images below.
 search System on the search bar and enter we will get this window
+
 ![](https://github.com/abhishekpshenoy/Python/blob/main/Images/python_installation/img4.PNG)
+
 Click on advance system settings we will get this window
+
+
 ![](https://github.com/abhishekpshenoy/Python/blob/main/Images/python_installation/img5.PNG)
+
 Select the environment variables button
+
 ![](https://github.com/abhishekpshenoy/Python/blob/main/Images/python_installation/img5.PNG)
+
 the double top on path 
+
 ![](https://github.com/abhishekpshenoy/Python/blob/main/Images/python_installation/img6.PNG)
 
 paste the path in which python was intalled which i had asked to copy in step 3
+
+
 ![](https://github.com/abhishekpshenoy/Python/blob/main/Images/python_installation/img7.PNG)
 
 click on ok and ok again and close the window
