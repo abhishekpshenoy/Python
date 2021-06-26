@@ -6,11 +6,11 @@ List = []
 print(List)  
      
 # Creating a list of strings
-List = ['GeeksForGeeks', 'Geeks'] 
+List = ['Abhishek', 'Python'] 
 print(List)  
      
 # Creating a Multi-Dimensional List  
-List = [['Geeks', 'For'], ['Geeks']]  
+List = [['Abhishek', 'Python'], ['Nodejs']]  
 print(List)
 
 #----------------------------------------------------------
@@ -27,11 +27,11 @@ print(List)
    
 # Using insert()
 List.insert(3, 12)  
-List.insert(0, 'Geeks')
+List.insert(0, 'Abhishek')
 print(List)  
    
 # Using extend()  
-List.extend([8, 'Geeks', 'Always'])  
+List.extend([8, 'Abhishek', 'Shenoy'])  
 print(List)
 
 #----------------------------------------------------------

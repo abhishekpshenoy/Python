@@ -5,16 +5,16 @@
 print('Welcome to the Geeks World')
      
 # String with double quotes  
-print("I'm a Geek")
+print("I'm a Abhishek")
      
 # String with triple quotes
-print('''I'm a Geek and I live in a world of "Geeks"''')
+print('''I'm a Abhishek and I live in "India"''')
 
 #--------------------------------------------------------------------
 # 2. Accessing of String  
 #---------------------------------------------------------------------  
      
-String1 = "GeeksForGeeks"
+String1 = "Abhishek"
      
 # Printing First character 
 print(String1[0])  
@@ -26,10 +26,10 @@ print(String1[-1])
 # 3. Deleting/Updating from a String 
 #---------------------------------------------------------------------  
 
-String1 = "Hello, I'm a Geek"
+String1 = "Hello, I'm a Abhishek"
      
 # Updating a character
-String1[2] = 'p'
+String1[2] = 'A'
    
 # Deleting a character   
 del String1[2]
