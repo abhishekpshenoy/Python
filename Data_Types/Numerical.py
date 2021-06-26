@@ -11,10 +11,10 @@ a = 10
 
 a = 20
 
-# a variable can also hold initger float or complex values i.e
+# b has float value
 
 b = 2.2
-
+# c has complex values
 c= 1+2j
 
 

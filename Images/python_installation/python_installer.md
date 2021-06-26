@@ -54,5 +54,10 @@ click on ok and ok again and close the window
 
 Python is now succefully installed on windows.
 
+
+## Getting started with Python
+### Basics about python 
+[Basics of Python](https://github.com/abhishekpshenoy/Python/blob/main/Images/Basics/Basics.md)
+[Data Types in Python](https://github.com/abhishekpshenoy/Python/blob/main/Data_Types/Guid_to_Data_types.md)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
