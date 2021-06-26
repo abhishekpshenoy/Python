@@ -8,11 +8,23 @@ Follow the following steps and will be Python is installed succesfully in Window
 ```
 ## Programming with python
 ## Basics about python 
-[Basics of Python](https://github.com/abhishekpshenoy/Python/blob/main/Images/Basics/Basics.md)
+[Basics of Python](https://github.com/abhishekpshenoy/Python/blob/main/Basics/Basics.md)
 
 ## Data Types
 
 [Data Types in Python](https://github.com/abhishekpshenoy/Python/blob/main/Data_Types/Guid_to_Data_types.md)
 
+
+## Operaters
+
+[Operaters in Python](https://github.com/abhishekpshenoy/Python/blob/main/Operaters/operaters.md)
+
+## Conditional statements
+
+[Conditional statements in Python](https://github.com/abhishekpshenoy/Python/blob/main/Conditional_statements/Conditional_statements.md)
+
+## Loops 
+
+[Loops in Python](https://github.com/abhishekpshenoy/Python/blob/main/Loops/Guid_Loops.md)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
