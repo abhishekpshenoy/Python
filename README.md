@@ -2,10 +2,9 @@
 
 ## Installation
 Python 
-download python from the official website [python](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe).
+To install python on windows [Click here](https://github.com/abhishekpshenoy/Python/blob/main/Images/python_installation/python_installer.md).
 ```
-follow the steps shown below to install python on windows
-after downloading python double tap on the exe file u will get a popup like shown below:
+Follow the following steps and will be Python is installed succesfully in Windows
 ```
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
