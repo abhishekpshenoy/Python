@@ -25,6 +25,6 @@ Follow the following steps and will be Python is installed succesfully in Window
 
 ## Loops 
 
-[Loops in Python](https://github.com/abhishekpshenoy/Python/blob/main/Loops/Guid_Loops.md)
+[Loops in Python](https://github.com/abhishekpshenoy/Python/blob/main/Loops/Guid_loops.md)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
