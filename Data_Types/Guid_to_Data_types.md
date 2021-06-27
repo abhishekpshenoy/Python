@@ -32,7 +32,7 @@ It is represented by list class.
 3. Accessing elements from the List
 4. Removing Elements from the List
 
-### Detail code is provided in ![Here](https://github.com/abhishekpshenoy/Python/blob/main/Data_Types/List.py)
+### Detail code is provided in ![Here](https://github.com/abhishekpshenoy/Python/blob/main/Data_Types/Lists.py)
 ### Tuple
 ```
 Tuple is an ordered collection of Python objects much like a list.
@@ -82,4 +82,4 @@ A Dictionary can be created by placing a sequence of elements within curly {} br
 
 
 # This is the end of Data Types
-## Furter we need to undestand Operaters ![Click Here](https://github.com/abhishekpshenoy/Python/blob/main/Operaters/Guid_to_Operaters.md) to start.
+## Furter we need to undestand Operaters ![Click Here](https://github.com/abhishekpshenoy/Python/blob/main/Operaters/operaters.md) to start.
