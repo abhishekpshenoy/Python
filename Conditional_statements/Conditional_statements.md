@@ -11,4 +11,4 @@ pre-requisit will be knowing Logical operater in operaters
 ## 5. [Short Hand if statement and if-else statement](https://github.com/abhishekpshenoy/Python/blob/main/Conditional_statements/sort_hand_condition.py)
     
 # This is the end of Conditional Statements
-## The next Topic will be Looping in python![Click Here](https://github.com/abhishekpshenoy/Python/blob/main/Loops/Loops.md) to start.
+## The next Topic will be Looping in python [Click Here](https://github.com/abhishekpshenoy/Python/blob/main/Loops/Loops.md) to start.

@@ -1,0 +1,5 @@
+English 100
+Hindi 80
+Kannada 100
+Math 60
+Science 70

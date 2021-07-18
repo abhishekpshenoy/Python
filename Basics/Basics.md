@@ -20,4 +20,4 @@ Python can be run using IDE's (Integrated development environment)
 In this course we use Visual Studio Code steps to install this will be updated soon
 ```
 # This is the end of Basics 
-## The next Topic will be Data Types in python![Click Here](https://github.com/abhishekpshenoy/Python/blob/main/Data_Types/Guid_to_Data_types.md) to start.
+## The next Topic will be Data Types in python [Click Here](https://github.com/abhishekpshenoy/Python/blob/main/Data_Types/Guid_to_Data_types.md) to start.

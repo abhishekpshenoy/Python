@@ -78,8 +78,8 @@ A Dictionary can be created by placing a sequence of elements within curly {} br
 3. Accessing elements from a Dictionary
 4. Removing Elements from Dictionary
 5. Nested Dictionary
-### Detail code is provided in ![Here](https://github.com/abhishekpshenoy/Python/blob/main/Data_Types/Dictionary.py)
+### Detail code is provided in [Here](https://github.com/abhishekpshenoy/Python/blob/main/Data_Types/Dictionary.py)
 
 
 # This is the end of Data Types
-## Furter we need to undestand Operaters ![Click Here](https://github.com/abhishekpshenoy/Python/blob/main/Operaters/operaters.md) to start.
+## Furter we need to undestand Operaters [Click Here](https://github.com/abhishekpshenoy/Python/blob/main/Operaters/operaters.md) to start.
