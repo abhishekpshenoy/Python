@@ -57,7 +57,7 @@ Python is now succefully installed on windows.
 
 ## Getting started with Python
 ### Basics about python 
-[Basics of Python](https://github.com/abhishekpshenoy/Python/blob/main/Images/Basics/Basics.md)
+[Basics of Python](https://github.com/abhishekpshenoy/Python/blob/main/Basics/Basics.md)
 
 ### Data Types
 
