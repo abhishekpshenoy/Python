@@ -6,6 +6,6 @@
 ## 3. [While shorthand](https://github.com/abhishekpshenoy/Python/blob/main/Loops/While_shorthand.py)
 ## 4. [Nested Loops](https://github.com/abhishekpshenoy/Python/blob/main/Loops/Nested_for.py)
 ## 5. [Loop Control Statements](https://github.com/abhishekpshenoy/Python/blob/main/Loops/loop_controler.py)
-  ### 1. Continue
-  ### 2. Break
-  ### 3. Pass
+	### 1. Continue
+	### 2. Break
+	### 3. Pass
